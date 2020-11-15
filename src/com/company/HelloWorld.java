@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("Dodany tekst w IJ");
         //dodanie komentarza
         //Komentarz w Github
+        //I jeszcze raz
     }
 }
