@@ -1,2 +1,4 @@
 # HelloWorld2
-Dodajemy plik readme
+## Dodajemy plik readme
+Dodatki w Inteliji id
+
